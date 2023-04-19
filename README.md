@@ -1,0 +1,3 @@
+# groupprojectcalculator
+
+Mobile Group project 
